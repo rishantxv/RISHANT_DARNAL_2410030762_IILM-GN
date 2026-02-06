@@ -8,6 +8,7 @@ int main(){
         if(N%i==0){
             c+=1;
         }
+        break;
     }if(c==0){
         printf("The no. is Prime");
     }else{
